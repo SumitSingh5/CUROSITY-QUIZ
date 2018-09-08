@@ -1,1 +1,1 @@
-1. Agreee_2. Disagree_3. Depends on situation
+1. Yes_2. No_3. Depends on situation

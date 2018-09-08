@@ -1,1 +1,1 @@
-1. Agree _2. Disagree
+1. Yes_2. No
